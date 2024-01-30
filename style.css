@@ -83,7 +83,9 @@ section{
     display: flex;
     align-items: center;
     padding: 0 9%;
-   /*  background: url('/images/Viv.png') no-repeat; */
+   /*  background: url('/images/Viv.png'); */
+    /* height: 150;
+    width: 150; */
     background-size: cover;
     background-position-x: right;
 
